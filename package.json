@@ -1,0 +1,20 @@
+{
+  "name": "pruebas-automatizadas-ghost-backstop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pre-config": "node pre-config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmy-cardenas-miso/pruebas-automatizadas-ghost-backstop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmy-cardenas-miso/pruebas-automatizadas-ghost-backstop/issues"
+  },
+  "homepage": "https://github.com/jimmy-cardenas-miso/pruebas-automatizadas-ghost-backstop#readme"
+}

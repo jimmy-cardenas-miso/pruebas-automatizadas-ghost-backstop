@@ -4,6 +4,15 @@
   <img src="https://miro.medium.com/max/912/1*9vfFYbZNbxxJ7EhmE-W8mg.png"/>
 </p>
 
+
+
+## Repositorios
+[Repositorio Cypress](https://github.com/jimmy-cardenas-miso/pruebas-automatizadas-ghost-cypress)
+
+[Repositorio Kraken](https://github.com/mauricio-corredor/pruebas-automatizadas-kraken-ghost)
+
+[Repositorio Resemble](https://github.com/jimmy-cardenas-miso/pruebas-automatizadas-ghost-resemble)
+
 ## Run
 1. Run script
 ```bash
